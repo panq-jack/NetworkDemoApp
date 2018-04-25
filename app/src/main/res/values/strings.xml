@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetworkDemoApp</string>
+    <string name="title_home">介绍</string>
+    <string name="title_dashboard">分类</string>
+    <string name="title_notifications">附录</string>
+
+    <string name="content_home">网络模块实现从服务器获取数据的功能，一般包括三级缓存的设计</string>
+
+    <string name="content_tip">一些附录</string>
+</resources>
